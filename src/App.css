@@ -3,6 +3,7 @@
   margin: 0 ;
   /* padding: 2rem; */
   /* text-align: center; */
+  position: relative;
 }
 
 .logo {
@@ -22,6 +23,9 @@
   grid-template-columns: repeat(3,1fr);
   gap: 5px;
   margin-left: 10px;
+}
+.cart-details-modal{
+  height: auto;
 }
 
 @keyframes logo-spin {
