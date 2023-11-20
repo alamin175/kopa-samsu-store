@@ -1,0 +1,32 @@
+.card{
+    height: 545px;
+    width: 300px;
+    background-color: #c4c4c4;
+    padding: 15px;
+    margin: 35px;
+    border-radius: 10px;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+.card h1 {
+    font-size: 30px;
+    margin-bottom: 0;
+}
+.card p{
+    margin: 5px;
+}
+.cart-pricing{
+    font-size: 20px;
+    /* padding: 10px; */
+    display: flex;
+    margin-top: 0;
+    align-items: center;
+}
+.cart-pricing h1{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
